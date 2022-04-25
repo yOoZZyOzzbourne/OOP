@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\Users\Ficek\Documents\Visual Studio projects\Obvody\Main.cpp(24,25): warning C4244: return: double se převádí na float; může dojít ke ztrátě dat.
+D:\Users\Ficek\Documents\Visual Studio projects\Obvody\Main.cpp(89,33): warning C4244: return: double se převádí na float; může dojít ke ztrátě dat.
+  Obvody.vcxproj -> D:\Users\Ficek\Documents\Visual Studio projects\Obvody\x64\Debug\Obvody.exe
