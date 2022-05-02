@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Users\Ficek\Documents\Visual Studio projects\OOP_9_Ficek\Source.cpp(24,62): warning C4305: argument: zkrácení z: double na: float
+D:\Users\Ficek\Documents\Visual Studio projects\OOP_9_Ficek\Source.cpp(25,90): warning C4305: argument: zkrácení z: double na: float
+D:\Users\Ficek\Documents\Visual Studio projects\OOP_9_Ficek\Source.cpp(26,59): warning C4305: argument: zkrácení z: double na: float
+D:\Users\Ficek\Documents\Visual Studio projects\OOP_9_Ficek\Source.cpp(38,53): warning C4244: argument: double se převádí na int; může dojít ke ztrátě dat.
+  OOP_9_Ficek.vcxproj -> D:\Users\Ficek\Documents\Visual Studio projects\OOP_9_Ficek\x64\Debug\OOP_9_Ficek.exe
